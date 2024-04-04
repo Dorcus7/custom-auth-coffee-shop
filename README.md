@@ -28,7 +28,7 @@ There are a lot of things we could do to improve the form accessibility and usab
 What is the existing code doing?
 
 ## Step 4: Create a database to store the user credentials
-- This can be done in the local database you have already created in PGAdmin or in the database you created in AWS.
+- This can be done in the local database you have already created in PGAdmin or in the database you created in AWS. [Here are the instructions for AWS](https://docs.google.com/document/d/1UQKewq6z8ADVulda8TxCkpgptLHAPdGc_y4-bez5c3o/edit?usp=sharing)
 - Create the table you will need for storing the username and password.
 - Be sure to install `node-pg` in order to write your SQL queries and connect to your DB.
 
